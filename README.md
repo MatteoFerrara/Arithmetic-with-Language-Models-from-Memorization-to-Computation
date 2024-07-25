@@ -1,1 +1,1 @@
-# Arithmetic-with-Language-Models-from-Memorization-to-Computation
+# Arithmetic with Language Models: from Memorization to Computation
